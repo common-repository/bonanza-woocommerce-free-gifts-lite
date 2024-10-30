@@ -1,0 +1,13 @@
+.xlwcfg_clear:before,.xlwcfg_clear:after{content:'';display:table}
+.xlwcfg_clear:after{clear:both}
+.xlwcfg_clear_10{height:10px}
+.xlwcfg_clear_15{height:15px}
+.xlwcfg_clear_20{height:20px}
+.xlwcfg_text_wrap{margin-bottom:10px}
+body.et_divi_theme .xlwcfg_text_wrap{margin-top:10px}
+.xlwcfg_text_outer_wrap{display:block;margin:0}
+.xlwcfg_text_outer_wrap:empty{display:none}
+.xlwcfg_text_wrap .xlwcfg_custom_text{display:inline}
+.xlwcfg_text_wrap .xlwcfg_custom_text p{padding:0;margin:0;line-height:1.4;font-size:16px}
+.xlwcfg_text_wrap .xlwcfg_custom_text p:last-child{margin-bottom:0!important}
+.xlwcfg_text_wrap[data-type='single'] .xlwcfg_custom_text{display:block}
